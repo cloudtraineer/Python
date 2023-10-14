@@ -1,1 +1,1 @@
-print("hello from jenkins server fast ")
+print("hello from jenkins server")
